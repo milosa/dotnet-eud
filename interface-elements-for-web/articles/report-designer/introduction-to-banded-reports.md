@@ -30,12 +30,12 @@ You can also add the following bands:
 
 - **Group Header** and **Group Footer**
 
-    These bands are above and below each [group](shape-report-data\group-and-sort-data.md).
+    These bands are above and below each [group](shape-report-data/group-and-sort-data.md).
 
 > [!TIP]
 > Only the detail and group bands can be used to display dynamic data source contents. Other bands display titles, summaries, and [extra information](add-extra-information.md).
 
-The following image illustrates a sample report layout and the [Report Explorer](report-designer-tools\ui-panels\report-explorer.md) panel that reflects the report's structure:
+The following image illustrates a sample report layout and the [Report Explorer](report-designer-tools/ui-panels/report-explorer.md) panel that reflects the report's structure:
 
 ![](../../images/eurd-web-report-bands-basic-layout.png)
 
@@ -47,7 +47,7 @@ Use the **detail report band** to create hierarchical [master-detail reports](cr
 
 A detail report band is a separate report (subreport) with its own data source and different bands. A report can have any number of detail reports that can also be nested.
 
-The following image illustrates a master-detail report and the [Report Explorer](report-designer-tools\ui-panels\report-explorer.md) panel that reflects the report's structure:
+The following image illustrates a master-detail report and the [Report Explorer](report-designer-tools/ui-panels/report-explorer.md) panel that reflects the report's structure:
 
 ![](../../images/eurd-web-report-bands-subreports.png)
 
@@ -86,7 +86,7 @@ You can create functional copies of a band, for example, to display different co
 ![](../../images/eurd-web-report-bands-basic-layout-sub-bands.png)
 
 > [!TIP]
-> See [Laying out Dynamic Report Contents](shape-report-data\lay-out-dynamic-report-content.md) for details on how to specify the location of bands' content on document pages.
+> See [Laying out Dynamic Report Contents](shape-report-data/lay-out-dynamic-report-content.md) for details on how to specify the location of bands' content on document pages.
 
 ## <a name="managingreportbands"></a>Manage Report Bands
 ### Collapse Bands in the Report Designer
